@@ -1,6 +1,7 @@
 {
-  "name": "ekta-premier-league-v6",
+  "name": "ekta-cricket-live-by-vrr",
   "version": "1.0.0",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
